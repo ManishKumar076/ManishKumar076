@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manish  
+# 👋 Hi, I'm Manish Kumar
 
 🚀 Aspiring AI/ML & Data Science Engineer | 2nd Year CSE @ UIET Kurukshetra  
 💡 Building [StnirX]– helping business seekers with AI-proof idea validation  
@@ -13,5 +13,5 @@
 - **Languages**: Python, JavaScript
 
 ### 🔗 Connect with Me  
-- 💼 LinkedIn: [linkedin.com/in/ManishKumar](https://linkedin.com/in/ManishKumar)
+- 💼 LinkedIn: [linkedin.com/in/ManishKumar]https://www.linkedin.com/in/manish -kumar-8a2360310
 - 📧 Email: manishkumar073645@gmail.com
