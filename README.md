@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Manish  
 
-<!--
-**ManishKumar076/ManishKumar076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI/ML & Data Science Engineer | 2nd Year CSE @ UIET Kurukshetra  
+💡 Building [StnirX]– helping business seekers with AI-proof idea validation  
 
-Here are some ideas to get you started:
+### 🌟 About Me  
+- 🔭 Currently working on: AI/ML Startup Projects  
+- 🌱 Learning: Quantum Computing & Full-Stack Development  
+- 💬 Ask me about: Machine Learning, Startups, Tech Strategy  
+- ⚡ Fun fact: I love dark chocolate (Kalomala 🍫)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Languages**: Python, JavaScript
+
+### 🔗 Connect with Me  
+- 💼 LinkedIn: [linkedin.com/in/ManishKumar](https://linkedin.com/in/ManishKumar)
+- 📧 Email: manishkumar073645@gmail.com
